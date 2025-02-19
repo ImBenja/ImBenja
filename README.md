@@ -70,7 +70,7 @@ Currently, I have experience in JavaScript, HTML, CSS, PHP and MySQL, and I am e
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/benjajuarez_1/?hl=es">
+<a href= "https://www.instagram.com/benjajuarez1_/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://www.tiktok.com/@vapixel_" >
