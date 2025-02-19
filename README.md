@@ -13,7 +13,7 @@ I am a 16 year old student at Educentro. Have 1 year of experience specializing 
 ***Outside of technology: 📽️I like to watch Series, 🏋️ Exercise, 🎮 Play video games, 🎵 Listen to Music and 📖 Read Investmentes and Mental Development Books.***
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="380" align="right"/>
 
 - **🌱 I’m currently learning ...**                                
   - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">                                         
