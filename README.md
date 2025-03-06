@@ -60,7 +60,9 @@ I am a 16 year old student at Educentro. Have 1 year of experience specializing 
 <a href= "https://www.instagram.com/benjajuarez1_/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-
+<a href="https://x.com/benjajuarez_2">
+   <img src="https://img.shields.io/badge/X-%23000.svg?style=for-the-badge&logo=X&logoColor=white">
+</a>
 <h2>Github stats:</h2> 
 
 <!--- stats & Trophy (start) -->
