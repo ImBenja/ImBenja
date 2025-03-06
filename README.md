@@ -60,16 +60,6 @@ I am a 16 year old student at Educentro. Have 1 year of experience specializing 
 <a href= "https://www.instagram.com/benjajuarez1_/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@vapixel_" >
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tiktok">
-</a>
-<a href="https://www.twitch.tv/valenwerle" >
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://www.youtube.com/@ValenWerle">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-</a>
-
 
 <h2>Github stats:</h2> 
 
