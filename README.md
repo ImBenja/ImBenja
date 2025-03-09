@@ -29,7 +29,7 @@ I am a 16 year old student at Educentro. Have 1 year of experience specializing 
 ## My Skills Include
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-<h4> 💻 Languages of Programing</h4>
+<h4> 💻 Programing</h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
